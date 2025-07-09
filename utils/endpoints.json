@@ -2,8 +2,8 @@
   "getUserData": "https://apim.prdt.finance/api/v1/user",
   "verify": "https://api7.prdt.finance/auth/verify",
   "getNonce": "https://api7.prdt.finance/auth/request-message",
-  "sendMail": "https://tokenapi.prdt.finance/api/v1/email-verification/initiate",
-  "verifyMail": "https://tokenapi.prdt.finance/api/v1/email-verification/verify",
-  "checkin": "https://tokenapi.prdt.finance/api/v1/mine/checkin",
-  "startMining": "https://tokenapi.prdt.finance/api/v1/mine/start"
+  "sendMail": "https://apim.prdt.finance/api/v1/email-verification/initiate",
+  "verifyMail": "https://apim.prdt.finance/api/v1/email-verification/verify",
+  "checkin": "https://apim.prdt.finance/api/v1/mine/checkin",
+  "startMining": "https://apim.prdt.finance/api/v1/mine/start"
 }
